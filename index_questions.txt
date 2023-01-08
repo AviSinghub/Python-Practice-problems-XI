@@ -1,0 +1,7 @@
+write a program and find the sum of three numbers.
+wrte a program to swap three values.
+write a program using 'sep' and 'end' arguments.
+write  a progrma to find the area of square.
+write  a progrma to find the area of circle ( take π = 3.14 )
+write a program to convert 'Meter' into 'inch' (take 1M = 39.37 inch)
+write a progrma to find the volume of a cylinder. (take π = 3.14 )
