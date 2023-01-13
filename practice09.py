@@ -1,4 +1,4 @@
-# solving the sum of numbers using '\n' 
+# 09. Solving the sum of numbers using '\n' 
 
 num1 = int(input("Enter the first number:"))
 num2 = int(input("Enter the second number:"))
